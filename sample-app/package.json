@@ -1,0 +1,10 @@
+{
+  "name": "sample-shop-sut",
+  "version": "1.0.0",
+  "description": "Sample web application used as the target for JMeter load testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
